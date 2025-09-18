@@ -1,0 +1,10 @@
+{
+  "owner": {
+    "username": "popo-psjp",
+    "email": "popo.mookda@gmail.com"
+  },
+  "records": {
+    "CNAME": "popo-psjp.github.io"
+  },
+  "proxied": true
+}
